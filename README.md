@@ -10,14 +10,13 @@ Web Application Development
 (Jacqueline Marks)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This assignment was to build a program that would allow a person to look up the percent of their income that would go towards taxes.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://github.com/jtmarks15/lesson5_marks)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (How to calculate percent of taxes based on marital status.)
+2. (How to use if, else- if statements.)
+3. (How to get page to not appear in double halves.)
 
